@@ -1,12 +1,12 @@
-# Learn List
-A list of books, resources or topics which I would like to learn
+# Learning List
+A list of books, resources or topics which I would like to learn as I come across them from various sources.
 
 # Books
 - [ ] [The DevOps Cookbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=sr_1_1?keywords=devops+cookbook&qid=1576982528&s=books&sr=1-1)
 - [x] [The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/B0812C82T9/ref=sr_1_1?crid=1Y5WI96YD87LI&keywords=the+unicorn+project&qid=1576982586&s=books&sprefix=the+unicor%2Cstripbooks-intl-ship%2C355&sr=1-1)
 
 # Python
-Python related topics
+Python related topics:
 ## Testing
 - [ ] [pytest](https://docs.pytest.org/en/latest/)
 - [ ] [coveralls](https://docs.coveralls.io/about-coveralls)
@@ -22,7 +22,7 @@ Python related topics
 - [ ] [flask, connecxion, swagger and SQLAlchemy](https://realpython.com/flask-connexion-rest-api/)
 
 # Programming Languages
-Programming languages to learn
+Programming languages to learn:
  - [ ] [Golang](https://golang.org/doc/code.html)
  
  # Infrastructure as Code
@@ -32,12 +32,12 @@ Programming languages to learn
  - [ ] [CloudFormation](https://aws.amazon.com/cloudformation/)
 
 # Containers/Container Orchestration
-Container/Container Orchestration related topics
+Container/Container Orchestration related topics:
 - [ ] [Docker](https://acloud.guru/learn/docker-devops-from-development-to-production)
 - [ ] [Kubernetes](https://learn.acloud.guru/course/kubernetes-deep-dive/dashboard)
 
 # Miscellaneous
-Miscellaneous items
+Miscellaneous items:
 - [x] [make](https://www.gnu.org/software/make/manual/make.html)
 - [ ] [ntc-rosetta](https://github.com/networktocode/ntc-rosetta)
 - [ ] [jc](https://github.com/kellyjonbrazil/jc)
